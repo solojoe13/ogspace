@@ -60,7 +60,8 @@ before submitting a pull request. Please check [contributing.md](https://github.
 
 Thank you to the following people for contributing to Space.
 
-[![Contributors](https://github.com/notzen3264/Space/graphs/contributors)](https://github.com/NightProxy/Space/graphs/contributors)
+[![Contributors]
+<a href="https://github.com/notzen3264/Space/graphs/contributors"> <img src="https://contrib.rocks/image?repo=notzen3264/Space"/> </a>
 
 ## Discord
 
